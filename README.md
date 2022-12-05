@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhi751
-- 👀 I’m interested in ...Python coding
-- 🌱 I’m currently learning ...basic python coding
+- 👀 I’m interested in ...Frontend Developer
+- 🌱 I’m currently learning ...Full stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...abhisheksngh0900@gmail.com
 
